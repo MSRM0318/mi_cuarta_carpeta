@@ -1,0 +1,20 @@
+.encabezado{
+    font-family: 'Mynerve', cursive;
+    text-align: center;
+    color: aqua;
+    background-color: rgb(255, 255, 255);
+}
+body{
+
+    background-image: url(/styles/images/Sintítulo.png);
+}
+p{
+    color: aqua;
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: center;
+}
+.tablas{
+    background-color: rgb(0, 0, 0);
+    opacity: 5;
+}
